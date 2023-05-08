@@ -1,0 +1,243 @@
+[
+    {
+        "title": "Introduction to C programming second edition",
+        "author": "Reema Thareja",
+        "isbn": "0-9065-4961-2",
+        "subject": "language",
+        "keywords": ["C", "language", "programming"],
+        "reserved_for": [],
+        "request_for": [],
+        "notify_to": [],
+        "copies": [
+            {
+                "b_id": "201401001-C1",
+                "issued": true,
+                "i_id": 201751004,
+                "name": "Ajay Kumar",
+                "issued_on": "2023-01-06T10:24:35"
+            },
+            {
+                "b_id": "201401001-C2",
+                "issued": true,
+                "i_id": 201751002,
+                "name": "Abhishek Singh",
+                "issued_on": "2023-01-06T10:24:35"
+            },
+            {
+                "b_id": "201401001-C3",
+                "issued": false,
+                "i_id": 0,
+                "name": "",
+                "issued_on": null
+            }
+        ],
+        "issued_history": [
+            {
+                "i_id": 201751001,
+                "name": "Aayush Dheemar",
+                "gender": "male",
+                "issued": "2023-01-06T10:24:35",
+                "returned": "2023-01-20T10:24:35",
+                "fine": 35
+            }
+        ]
+    },
+    {
+        "title": "Introduction to Java programming 10th edition",
+        "author": "Y. Daniel Liang",
+        "isbn": "0-5463-7940-0",
+        "subject": "language",
+        "keywords": ["Java", "OOPs", "language", "programming", "Object Oriented"],
+        "reserved_for": [],
+        "request_for": [],
+        "notify_to": [],
+        "copies": [
+            {
+                "b_id": "201401002-C1",
+                "issued": true,
+                "i_id": 201751001,
+                "name": "Aayush Dheemar",
+                "issued_on": "2023-01-06T10:24:35"
+            },
+            {
+                "b_id": "201401002-C2",
+                "issued": true,
+                "i_id": 201751004,
+                "name": "Ajay Kumar",
+                "issued_on": "2023-01-10T10:24:35"
+            },
+            {
+                "b_id": "201401002-C3",
+                "issued": false,
+                "i_id": 0,
+                "name": "",
+                "issued_on": null
+            },
+            {
+                "b_id": "201401002-C4",
+                "issued": false,
+                "i_id": 0,
+                "name": "",
+                "issued_on": null
+            }
+        ],
+        "issued_history": []
+    },
+    {
+        "title": "Introduction to algorithms third edition",
+        "author": "Thomas H Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+        "isbn": "0-8959-0388-1",
+        "subject": "algorithm",
+        "keywords": ["algorithm", "programming"],
+        "reserved_for": [],
+        "request_for": [],
+        "notify_to": [],
+        "copies": [
+            {
+                "b_id": "201401003-C1",
+                "issued": false,
+                "i_id": 0,
+                "name": "",
+                "issued_on": null
+            },
+            {
+                "b_id": "201401003-C2",
+                "issued": false,
+                "i_id": 0,
+                "name": "",
+                "issued_on": null
+            },
+            {
+                "b_id": "201401003-C3",
+                "issued": false,
+                "i_id": 0,
+                "name": "",
+                "issued_on": null
+            }
+        ],
+        "issued_history": []
+    },
+    {
+        "title": "Algorithms in C++ 3rd edition part 5 graph algorithm",
+        "author": "Robert Sedgewick with c++ consulting by Christopher J. Van Wyk",
+        "isbn": "0-3090-0575-2",
+        "subject": "language",
+        "keywords": ["c++", "algorithms", "OOPs", "language", "programming", "Object Oriented"],
+        "reserved_for": [],
+        "request_for": [],
+        "notify_to": [],
+        "copies": [
+            {
+                "b_id": "201401004-C1",
+                "issued": true,
+                "i_id": 201751003,
+                "name": "Aditya Prakash",
+                "issued_on": "2023-01-20T10:24:35"
+            },
+            {
+                "b_id": "201401004-C2",
+                "issued": true,
+                "i_id": 201751005,
+                "name": "Akshit Maheshwari",
+                "issued_on": "2023-01-23T10:24:35"
+            },
+            {
+                "b_id": "201401004-C3",
+                "issued": true,
+                "i_id": 201751006,
+                "name": "Arpit Maheshwari",
+                "issued_on": "2023-01-23T10:24:35"
+            },
+            {
+                "b_id": "201401004-C4",
+                "issued": true,
+                "i_id": 201751007,
+                "name": "Atul Bagade",
+                "issued_on": "2023-01-23T10:24:35"
+            }
+        ],
+        "issued_history": []
+    },
+    {
+        "title": "Algorithms illuminated part 1 the basics",
+        "author": "Tim Roughgarden",
+        "isbn": "0-9790-8771-6",
+        "subject": "language",
+        "keywords": ["algorithms", "OOPs", "programming", "Object Oriented"],
+        "reserved_for": [],
+        "request_for": [],
+        "notify_to": [],
+        "copies": [
+            {
+                "b_id": "201401005-C1",
+                "issued": false,
+                "i_id": 0,
+                "name": "",
+                "issued_on": null
+            },
+            {
+                "b_id": "201401005-C2",
+                "issued": false,
+                "i_id": 0,
+                "name": "",
+                "issued_on": null
+            },
+            {
+                "b_id": "201401005-C3",
+                "issued": false,
+                "i_id": 0,
+                "name": "",
+                "issued_on": null
+            },
+            {
+                "b_id": "201401005-C4",
+                "issued": false,
+                "i_id": 0,
+                "name": "",
+                "issued_on": null
+            }
+        ],
+        "issued_history": []
+    },
+    {
+        "title": "Foundations of algorithms fifth edition",
+        "author": "Richard E. Neapolitan",
+        "isbn": "0-9790-8771-2",
+        "subject": "language",
+        "keywords": ["algorithms", "OOPs", "programming", "Object Oriented"],
+        "reserved_for": [],
+        "request_for": [],
+        "notify_to": [],
+        "copies": [
+            {
+                "b_id": "201401006-C1",
+                "issued": false,
+                "i_id": 0,
+                "name": "",
+                "issued_on": null
+            },
+            {
+                "b_id": "201401006-C2",
+                "issued": false,
+                "i_id": 0,
+                "name": "",
+                "issued_on": null
+            },
+            {
+                "b_id": "201401006-C3",
+                "issued": false,
+                "i_id": 0,
+                "name": "",
+                "issued_on": null
+            },
+            {
+                "b_id": "201401006-C4",
+                "issued": false,
+                "i_id": 0,
+                "name": "",
+                "issued_on": null
+            }
+        ],
+        "issued_history": []
+    }
+]

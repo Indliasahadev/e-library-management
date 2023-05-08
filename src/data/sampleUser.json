@@ -1,0 +1,41 @@
+[
+    {
+        "i_id": 201751001,
+        "email": "201751001@iiitvadodara.ac.in",
+        "institute": "Indian Institue of Information and Technology, Vadodara",
+        "name": "Aayush Dheemar",
+        "avatar": {
+            "name": "avatar-default.png",
+            "path": "../assets/avatars/avatar-default.png"
+        },
+        "gender": "male",
+        "username": "201751001",
+        "password": "pass123",
+        "requested_books": [],
+        "issued_books": [
+            {
+                "_id": "1139023483-C1",
+                "title": "Introduction to Java programming 10th edition",
+                "image_url": "https://www.informit.com/ShowCover.aspx?isbn=0133813487",
+                "author": "Y. Daniel Liang",
+                "isbn": "1139023483",
+                "issued_on": "2023-01-06T10:24:35"
+            }
+        ],
+        "issued_books_list": [
+            {
+                "_id": "1139023484-C1",
+                "title": "Introduction to C programming second edition",
+                "author": "Reema Thareja",
+                "isbn": "1139023484",
+                "image_url": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51nag-SvYqL._SX385_BO1,204,203,200_.jpg",
+                "issued_on": "2023-01-06T10:24:35",
+                "returned_on": "2023-01-20T10:24:35",
+                "fine": 35
+            }
+        ],
+        "notify_me": [],
+        "notification": [],
+        "warning": []
+    }
+]

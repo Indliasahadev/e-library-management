@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+</head>
+<body>
+    <div id="app">
+        <h1>Users List</h1>
+        <button @click="getUser">Edit Users</button>
+        <p></p>
+        <p>{{ msg }}</p>
+        <div v-for="user in msg1">
+            <p>{{ user }}</p>
+            <textarea name="" id="" cols="30" rows="10"></textarea>
+        </div>
+    </div>
+    <script src="userList.js"></script>
+    <script src="user.js"></script>
+    <script>
+        const { createApp } = Vue
+      
+        createApp({
+          data() {
+            return {
+              message: userList,
+              msg: 'Hello',
+              msg1: []
+            }
+          },
+          methods: {
+            getUser(){
+                console.log('User creating file...')
+                let id = 201751001
+                for(let i=1; i<301; i++){
+                    this.msg1.push(i)
+                }
+            }
+          }
+        }).mount('#app')
+      </script>      
+</body>
+</html>

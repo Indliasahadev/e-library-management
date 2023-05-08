@@ -1,0 +1,217 @@
+[
+    {
+        "i_id": 201751001,
+        "email": "201751001@iiitvadodara.ac.in",
+        "institute": "Indian Institue of Information and Technology, Vadodara",
+        "name": "Aayush Dheemar",
+        "avatar": {
+            "name": "avatar-default.png",
+            "path": "../assets/avatars/avatar-default.png"
+        },
+        "gender": "male",
+        "username": "201751001",
+        "password": "pass123",
+        "waiting_list": [],
+        "issued_books": [
+            {
+                "_id": "1139023483-C1",
+                "title": "Introduction to Java programming 10th edition",
+                "image_url": "https://www.informit.com/ShowCover.aspx?isbn=0133813487",
+                "author": "Y. Daniel Liang",
+                "isbn": "1139023483",
+                "issued_on": "2023-01-06T10:24:35"
+            }
+        ],
+        "issued_books_list": [
+            {
+                "_id": "1139023484-C1",
+                "title": "Introduction to C programming second edition",
+                "author": "Reema Thareja",
+                "isbn": "1139023484",
+                "image_url": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51nag-SvYqL._SX385_BO1,204,203,200_.jpg",
+                "issued_on": "2023-01-06T10:24:35",
+                "returned_on": "2023-01-20T10:24:35",
+                "fine": 35
+            }
+        ],
+        "notify_me": [],
+        "notification": [],
+        "warning": []
+    },
+    {
+        "i_id": 201751002,
+        "email": "201751002@iiitvadodara.ac.in",
+        "institute": "Indian Institue of Information and Technology, Vadodara",
+        "name": "Abhishek Singh",
+        "avatar": {
+            "name": "avatar-default.png",
+            "path": "../assets/avatars/avatar-default.png"
+        },
+        "gender": "male",
+        "username": "201751002",
+        "password": "pass123",
+        "waiting_list": [],
+        "issued_books": [
+            {
+                "_id": "1139023484-C2",
+                "title": "Introduction to C programming second edition",
+                "image_url": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51nag-SvYqL._SX385_BO1,204,203,200_.jpg",
+                "author": "Reema Thareja",
+                "isbn": "1139023484",
+                "issued_on": "2023-01-06T10:24:35"
+            }
+        ],
+        "issued_books_list": [],
+        "notify_me": [],
+        "notification": [],
+        "warning": []
+    },
+    {
+        "i_id": 201751003,
+        "email": "201751003@iiitvadodara.ac.in",
+        "institute": "Indian Institue of Information and Technology, Vadodara",
+        "name": "Aditya Prakash",
+        "avatar": {
+            "name": "avatar-default.png",
+            "path": "../assets/avatars/avatar-default.png"
+        },
+        "gender": "male",
+        "username": "201751003",
+        "password": "pass123",
+        "waiting_list": [],
+        "issued_books": [
+            {
+                "_id": "1139023485-C1",
+                "title": "Algorithms in C++ 3rd edition part 5 graph algorithm",
+                "image_url": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81iwEgWbGOL.jpg",
+                "author": "Robert Sedgewick with c++ consulting by Christopher J. Van Wyk",
+                "isbn": "1139023485",
+                "issued_on": "2023-01-20T10:24:35"
+            }
+        ],
+        "issued_books_list": [],
+        "notify_me": [],
+        "notification": [],
+        "warning": []
+    },
+    {
+        "i_id": 201751004,
+        "email": "201751004@iiitvadodara.ac.in",
+        "institute": "Indian Institue of Information and Technology, Vadodara",
+        "name": "Ajay Kumar",
+        "avatar": {
+            "name": "avatar-default.png",
+            "path": "../assets/avatars/avatar-default.png"
+        },
+        "gender": "male",
+        "username": "201751004",
+        "password": "pass123",
+        "waiting_list": [],
+        "issued_books": [
+            {
+                "_id": "1139023484-C1",
+                "title": "Introduction to C programming second edition",
+                "image_url": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51nag-SvYqL._SX385_BO1,204,203,200_.jpg",
+                "author": "Reema Thareja",
+                "isbn": "1139023484",
+                "issued_on": "2023-01-06T10:24:35"
+            },
+            {
+                "_id": "1139023483-C2",
+                "title": "Introduction to Java programming 10th edition",
+                "image_url": "https://www.informit.com/ShowCover.aspx?isbn=0133813487",
+                "author": "Y. Daniel Liang",
+                "isbn": "1139023483",
+                "issued_on": "2023-01-10T10:24:35"
+            }
+        ],
+        "issued_books_list": [],
+        "notify_me": [],
+        "notification": [],
+        "warning": []
+    },
+    {
+        "i_id": 201751005,
+        "email": "201751005@iiitvadodara.ac.in",
+        "institute": "Indian Institue of Information and Technology, Vadodara",
+        "name": "Akshit Maheshwari",
+        "avatar": {
+            "name": "avatar-default.png",
+            "path": "../assets/avatars/avatar-default.png"
+        },
+        "gender": "male",
+        "username": "201751005",
+        "password": "pass123",
+        "waiting_list": [],
+        "issued_books": [
+            {
+                "_id": "1139023485-C2",
+                "title": "Algorithms in C++ 3rd edition part 5 graph algorithm",
+                "image_url": "https://images-na.ssl-images-amazon.com/images/I/51chuJsGN8L.jpg",
+                "author": "Robert Sedgewick with c++ consulting by Christopher J. Van Wyk",
+                "isbn": "1139023485",
+                "issued_on": "2023-01-23T10:24:35"
+            }
+        ],
+        "issued_books_list": [],
+        "notify_me": [],
+        "notification": [],
+        "warning": []
+    },
+    {
+        "i_id": 201751006,
+        "email": "201751006@iiitvadodara.ac.in",
+        "institute": "Indian Institue of Information and Technology, Vadodara",
+        "name": "Arpit Maheshwari",
+        "avatar": {
+            "name": "avatar-default.png",
+            "path": "../assets/avatars/avatar-default.png"
+        },
+        "gender": "male",
+        "username": "201751006",
+        "password": "pass123",
+        "waiting_list": [],
+        "issued_books": [
+            {
+                "_id": "1139023485-C3",
+                "title": "Algorithms in C++ 3rd edition part 5 graph algorithm",
+                "image_url": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81iwEgWbGOL.jpg",
+                "author": "Robert Sedgewick with c++ consulting by Christopher J. Van Wyk",
+                "isbn": "1139023485",
+                "issued_on": "2023-01-23T10:24:35"
+            }
+        ],
+        "issued_books_list": [],
+        "notify_me": [],
+        "notification": [],
+        "warning": []
+    },
+    {
+        "i_id": 201751007,
+        "email": "201751007@iiitvadodara.ac.in",
+        "institute": "Indian Institue of Information and Technology, Vadodara",
+        "name": "Atul Bagade",
+        "avatar": {
+            "name": "avatar-default.png",
+            "path": "../assets/avatars/avatar-default.png"
+        },
+        "gender": "male",
+        "username": "201751007",
+        "password": "pass123",
+        "waiting_list": [],
+        "issued_books": [
+            {
+                "_id": "1139023485-C4",
+                "title": "Algorithms in C++ 3rd edition part 5 graph algorithm",
+                "image_url": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81iwEgWbGOL.jpg",
+                "author": "Robert Sedgewick with c++ consulting by Christopher J. Van Wyk",
+                "isbn": "1139023485",
+                "issued_on": "2023-01-23T10:24:35"
+            }
+        ],
+        "issued_books_list": [],
+        "notify_me": [],
+        "notification": [],
+        "warning": []
+    }
+]
